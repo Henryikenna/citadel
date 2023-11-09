@@ -1,5 +1,4 @@
 import 'package:chewie/chewie.dart';
-import 'package:citadel/mock_data/mock.dart';
 import 'package:citadel/models/video.dart';
 import 'package:citadel/utils/colors.dart';
 import 'package:citadel/utils/font.dart';

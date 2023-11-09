@@ -48,6 +48,8 @@ dependencies:
   miniplayer: ^1.0.1
   timeago: ^3.6.0
   chewie: ^1.7.1
+  dotted_border: ^2.1.0
+  loading_animation_widget: ^1.2.0+4
 
 dev_dependencies:
   flutter_test:

@@ -3,8 +3,10 @@ import 'package:flutter/material.dart';
 class Appcolors {
   static const blackish = Color(0xFF1E1E1E);
   static const bgBlack = Color(0xFF0F0F0F);
+  static const greyishBlack = Color(0xFF202020);
   static const borderGray = Color(0xFF9696A9);
   static const gray = Color(0xFF737373);
+  static const secondGray = Color(0xFF9E9E9E);
   static const whitish = Color(0xFFDEDEDE);
   static const mainGreen = Color(0xFF35BC52);
   static const purpleish = Color(0xFF8A70A8);

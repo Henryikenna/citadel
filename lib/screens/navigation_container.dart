@@ -2,7 +2,6 @@ import 'package:citadel/screens/community_screen.dart';
 import 'package:citadel/screens/home_screen.dart';
 import 'package:citadel/screens/library_screen.dart';
 import 'package:citadel/screens/search_screen.dart';
-import 'package:citadel/screens/upload_screen.dart';
 import 'package:citadel/widgets/bottom_navigation_bar.dart';
 import 'package:flutter/material.dart';
 

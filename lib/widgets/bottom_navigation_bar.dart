@@ -1,3 +1,4 @@
+import 'package:citadel/screens/upload_screen.dart';
 import 'package:citadel/utils/colors.dart';
 import 'package:citadel/utils/font.dart';
 import 'package:flutter/material.dart';
@@ -62,7 +63,12 @@ class CustomBottomNavigationBar extends StatelessWidget {
                     width: double.infinity,
                     height: MediaQuery.of(context).size.height / 18,
                     child: TextButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.push(context,
+                            MaterialPageRoute(builder: (context) {
+                          return const UploadScreen();
+                        }));
+                      },
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
